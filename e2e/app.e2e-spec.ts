@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('control-remoto App', () => {
+describe('angular-filestore App', () => {
   let page: AppPage;
 
   beforeEach(() => {
